@@ -58,3 +58,7 @@ TSNB is a decentralized peer-to-peer chat application that enables direct commun
 - `client.py`: Chat client implementation
 - `server.py`: Server functionality for peer connections
 - `data/connections.json`: Peer connection information storage
+
+## License
+
+See the [LICENSE](LICENSE) file for license rights and limitations.
